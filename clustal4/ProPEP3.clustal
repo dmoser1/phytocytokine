@@ -1,0 +1,110 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+AT5G64905.1$ProPEP3                               -----------------------MENLRNGEDNGSLIPF---TFFDQSSVTIP-LLKCSG
+Bo3g100740.1$ProPEP3                              ----------------------MENMRNGGENGSHWIPF---MFFDRSSVTIH-LLKWFG
+KFK28178$ProPEP3                                  ---------------------MEKLERRSEEETHLWIPF---QFLDQ--TLKA-ILKCLG
+TraesPAR_scaffold_033471_01G000100.1$ProPEP3      MEYKGQL---QLEKKSSQEE-DAMAMAASSPSFFLWHPL---SLLHH--VTRS-CAGYLG
+Csa02g073810.1$ProPEP3                            ---------------------MDKIVRRSEEEPYLWIPI---QFLDQ--TVIA-IFKCLG
+KGN45903$ProPEP3                                  --------------------------MNDDDDVHDHCPFFLSIFKLVFQITMA-FYRFLG
+KMT08659$ProPEP3                                  --------------------------------------------------MKP-LLKFLE
+cds.novel_model_3309_5bd9a17a$ProPEP3             MKDNSEKKDNQDEQEEADLQNIRTTEESNCTSFFTSSPC--CNFLCS--AVNA-FFKCLG
+PNT07931$ProPEP3                                  ---------------------------------MGSYLS---SFFIE--AHNA-LLQFLG
+PSS17427$ProPEP3                                  ----------------MEAAP---DNSGATVDCFAQRSW---YYLQE--AIGA-LLKCLG
+ERM94331$ProPEP3                                  ----------------MEG----EGKEDGSMAINTWLSC---PCLEY--FLRA-ALNCFG
+PGSC0003DMT400056515$ProPEP3                      ----------------MEEKK---ESRSAYNEIITKNPM---FYLQE--GIKA-ILKCLG
+mRNA:MD10G0034000$ProPEP3                         MEYSQSSKVLADD---------EEELME--KRSYHIFPC---HFLEE--AVRA-FFKCLG
+VVA38268$ProPEP3                                  MEYSQVSTDDGEA---------EVKEKRGVSYNFYLHPC---HFLEE--AVRA-FFKCLG
+KOM35816$ProPEP3                                  ----------------------MEEEEERTATFYVYHPC---YFLQQ--ALRA-FFKCLG
+CDS:Oeu038192.1.1$ProPEP3                         ----------------MEETIENINGRQNTETYCVQNPC---RYIQV--AIKT-LLKCLG
+ESW15610$ProPEP3                                  ------------ME-----ESSPWHEEERTATFYVYHPC---HFLQE--ALRT-LLRCLG
+OIW01405$ProPEP3                                  -----------MEGSSTHEEKGEVVDHERTTTFSLYHPC---YFFEE--ALRA-LFKCLG
+OTG26750$ProPEP3                                  ----------------MVEER---AEVVYDIGYGYGNPC---RYLQE--VFRS-FLRCLG
+KEH43598$ProPEP3                                  -----------MEE---TTERLSTKKEEKTMTFYVYHPC---YCLEE--IFKT-FLRCFG
+Tp57577_TGAC_v2_mRNA31606$ProPEP3                 ------------------------------MIFYVCHPC---SFLEE--ALRA-FLKCFG
+KRG91759$ProPEP3                                  -----------MEG-----SSASSHEEERTATFYVYHPC---YFLQQ--AFRA-LLRCLG
+PRQ48931$ProPEP3                                  ----------------MESS-SSADQREEERHPLLHSPC---HFFDQ--LITA-CLKCLG
+VIT_18s0164g00050.t01$ProPEP3                     ----------------MEEPSTGEMTQRPTTVYYSHNPC---YYLQE--AIRA-ILKCLG
+KZM99467$ProPEP3                                  MEGTAEEGKVV------VVSREERDGAYGDYSCGNILLC--KYPLHE--VVRALFFKCFG
+                                                                                                              
+
+AT5G64905.1$ProPEP3                               LESSSSSSSSCDLSSSHSE----------------------------------EDESIDI
+Bo3g100740.1$ProPEP3                              LGNSSPSSSFSFQSEEE--------------------------------------DVVET
+KFK28178$ProPEP3                                  LLHHDSPTTTTETASSPVTLNQPE--EE-------------------------KEEEEDV
+TraesPAR_scaffold_033471_01G000100.1$ProPEP3      LSRLCHALKDLKPRAATSP--------P-------------------------AATSPQL
+Csa02g073810.1$ProPEP3                            LLCPTAKKTGDLKPTG----------AK-------------------------EEEEDDV
+KGN45903$ProPEP3                                  FCVPSSTLPSSEDSYP-------------------------------------VDPHPPP
+KMT08659$ProPEP3                                  FGCFSSSTTTSTKNAS-------------------------------------TDRDIKI
+cds.novel_model_3309_5bd9a17a$ProPEP3             YEYDPHDVNYSPLPTTQ-----T----------------SDQPSSKDPSQTK--TPEEDQ
+PNT07931$ProPEP3                                  LVIVDHQSKTQEGSSTSSSEKQ---------------EDEK------------AS-EESS
+PSS17427$ProPEP3                                  FDSSKPEDSSSSSQGVDVKEPN------------P-------------------------
+ERM94331$ProPEP3                                  LSSSSDSDGNQKVVSA-----------------------------------------EGE
+PGSC0003DMT400056515$ProPEP3                      FESSKLVHQASSSSSSSSSSSSMSDTNKKEEEESEKQEQECVLFQEDGNKQGSDS-TNDN
+mRNA:MD10G0034000$ProPEP3                         IETKSQEDNENPKRATPASTPEQNDADP------SL-------------------PTTDE
+VVA38268$ProPEP3                                  IENRAQEEKDDGQKDTQTNPNKIAPSTS------QAELQGDA---ADPSVTATDTTEADP
+KOM35816$ProPEP3                                  IERTLSPQTHAAA----------------------------DPTINSSTN---TQTSLDA
+CDS:Oeu038192.1.1$ProPEP3                         FETENSSTSEEKDKEGISEMSS-----------------------------------QEP
+ESW15610$ProPEP3                                  IESGTSMSSEAKQERSSLPQTHAA----------------ADPTISSPTNT--HTTSLGA
+OIW01405$ProPEP3                                  LEFGTKEKKISMDKAA-------------------SESEENDPITPENTESNSHRSSQEY
+OTG26750$ProPEP3                                  LEKQEGKERNTSGGVGGRDTGG-------------------------GDGDGDGDGDGGG
+KEH43598$ProPEP3                                  IESTQTKEEEDSS--TSLLKPHACACAS------DSNVALKDRYYSS-SSNKKSSQEEGV
+Tp57577_TGAC_v2_mRNA31606$ProPEP3                 IESTQMKEEENSS--TSLLKSHACASDS------VPMVASELYQCSS-SSSNQKSSQEGV
+KRG91759$ProPEP3                                  IESEATMCSKAEEEKSSLSQTTAA----------------DDLITNSPSCNISHKNSQDA
+PRQ48931$ProPEP3                                  LDHDFSFSAAAGKTKADQHQQYPA-----------------------------PQTEMEM
+VIT_18s0164g00050.t01$ProPEP3                     LESSTSRDSSSSSSEQKDDDDT------------EASPQQS----RSSTQQG----AHSS
+KZM99467$ProPEP3                                  FETSHQPAAVKETEPST------------------------------------TEPVSSS
+                                                                                                              
+
+AT5G64905.1$ProPEP3                               KEEEEEEEE---------DGMTIEIKARGKNKTKPTPSS----GKGGKHN----------
+Bo3g100740.1$ProPEP3                              KEEEDV------------MTVNITERRLKKSKPKPRPSS----GKGGKVH----------
+KFK28178$ProPEP3                                  AMEDDVVVTTRGVK-NSVAVRSRGKKAKGKPKEKERVST----GSPGQHNSIPSTQKITF
+TraesPAR_scaffold_033471_01G000100.1$ProPEP3      HDEEPGVGGAGHAA--DDDCAAVEVRSRGVPQRPRAPRE----GRGGTHH----------
+Csa02g073810.1$ProPEP3                            AMKDDGVVVLT----------RGRMKARAKKKDKENTSK----GRPGQTNKLLNAAIETS
+KGN45903$ProPEP3                                  KTDDPPIEN---------SGEEEREFARRNPPPPPPPSN----GGGGRTN----------
+KMT08659$ProPEP3                                  KMTTRKIAR---------NIRGIRSLGRIKKPPKPPVST----GRGGQIHST--------
+cds.novel_model_3309_5bd9a17a$ProPEP3             EE-----TG----------TTRVVLSRRTPPPRRQGPTR----GRGGQNN----------
+PNT07931$ProPEP3                                  QDPPPTTTDPKADPPTDNSEDPPAVTVSALARRTPPVSS----GSGGQIN----------
+PSS17427$ProPEP3                                  -QHPPSTTDPDTDPPSVSVEDIATTSARRPTQPRPPISS----GGGPQTN----------
+ERM94331$ProPEP3                                  KDPKTTTD------------TSGVISVLSRRPKRPGVNP----GRGGQIN----------
+PGSC0003DMT400056515$ProPEP3                      YKNDPPVENDDEDPPQSETLI-LATERRGRPPSRPKVGS----GPPPQNN----------
+mRNA:MD10G0034000$ProPEP3                         DPPSSSATTGTTD------EVAADTRTNLSARARPGLSV----GGGGRINSSNN------
+VVA38268$ProPEP3                                  APSST--------------TTQTSEVAASSRVVRPPITT----GEGGQIN----------
+KOM35816$ProPEP3                                  ADPSSVT------------DINVGLFARRDGSRRSPITH----GPGPQHN----------
+CDS:Oeu038192.1.1$ProPEP3                         PADLPATVPPPTDPPEAAA-DPPFNNVLARTPSRPPIGR----GRGGQTN----------
+ESW15610$ProPEP3                                  AGPPSVT------------DRTISTSLIARSGRRSTVSH----GSGPQHD----------
+OIW01405$ProPEP3                                  SSTSTTQNW----------QLVTSIMVVKRGPRRPELSR----GSGPQTN----------
+OTG26750$ProPEP3                                  GEVDPPTTSPIMDPTDEPM--STRRLTRRPPPPRGPISS----GGGGQTN----------
+KEH43598$ProPEP3                                  ADPPPSTST----------QTINLSSMGRGGPRRTPLTQ----GPPPQHN----------
+Tp57577_TGAC_v2_mRNA31606$ProPEP3                 EDPSTSAFS----------QTLNLSSMGRGGPRRTPPTQ----GTPPQHN----------
+KRG91759$ProPEP3                                  ADPPSTTNQ----------TIIIASSMARRGNRGSRISH----GSGPQHN----------
+PRQ48931$ProPEP3                                  KFREEVVVTAT----------GNARWTRALRVKRPSLGS----GSGPQINRASSY-----
+VIT_18s0164g00050.t01$ProPEP3                     SADSPST--TQQDNNTFED--AESARVLRRGPTRPPISFESRPGGGSQIN----------
+KZM99467$ProPEP3                                  ADPGPTVTS-------------GDMAMRFRPPPRRPVTR----GSGPETNSTGSA-----
+                                                                                             *     .          
+
+AT5G64905.1$ProPEP3                               ------------
+Bo3g100740.1$ProPEP3                              ------------
+KFK28178$ProPEP3                                  V-----------
+TraesPAR_scaffold_033471_01G000100.1$ProPEP3      ------------
+Csa02g073810.1$ProPEP3                            ALNKKQIENSGG
+KGN45903$ProPEP3                                  ------------
+KMT08659$ProPEP3                                  ------------
+cds.novel_model_3309_5bd9a17a$ProPEP3             ------------
+PNT07931$ProPEP3                                  ------------
+PSS17427$ProPEP3                                  ------------
+ERM94331$ProPEP3                                  ------------
+PGSC0003DMT400056515$ProPEP3                      ------------
+mRNA:MD10G0034000$ProPEP3                         ------------
+VVA38268$ProPEP3                                  ------------
+KOM35816$ProPEP3                                  ------------
+CDS:Oeu038192.1.1$ProPEP3                         ------------
+ESW15610$ProPEP3                                  ------------
+OIW01405$ProPEP3                                  ------------
+OTG26750$ProPEP3                                  ------------
+KEH43598$ProPEP3                                  ------------
+Tp57577_TGAC_v2_mRNA31606$ProPEP3                 ------------
+KRG91759$ProPEP3                                  ------------
+PRQ48931$ProPEP3                                  ------------
+VIT_18s0164g00050.t01$ProPEP3                     ------------
+KZM99467$ProPEP3                                  ------------
+                                                              

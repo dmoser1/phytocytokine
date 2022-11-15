@@ -1,0 +1,62 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+Zm00001d002137_P001$ZmProPEP1                       -----MDERGEKEEEHGVVE---------------------------------------E
+ORGLA04G0217900.1$ZmProPEP1                         -----MDQVEE-KEGNRFQEPASDRCEDNEDKEQDNSE-----ESSSVDQRKEEE---EE
+PUZ49126$ZmProPEP1                                  -----MDQHGEKEAEDKFQDSAGQRQDDDAAAAAAEGH-----AEESVGPRAGYKA---E
+TKW06853$ZmProPEP1                                  -----MDQHKEKEAENKSQDSTAEQLKEA--------S-----SKESMDQRAGYKAEEES
+KQJ84871$ZmProPEP1                                  MDQQPKMQREEEEEEGSLKESTGRRTEEEEPVDRREEEEKKGPQEPTTHPREAAADEEKE
+EES12943$ZmProPEP1                                  -----MDQRGEEDHNSQLDSSDLRRKSTAAA--VPDDV-----HGELTDQRNDGG--FEA
+TraesROB_scaffold_068046_01G000100.1$ZmProPEP1      -----------------------------------------------------------M
+HORVU.MOREX.r2.4HG0281300.1.mrna1$ZmProPEP1         -----------------------------------------------------------M
+cds.novel_model_3309_5bd9a17a$ZmProPEP1             ----------------------------------------MKDNSEKKDNQ------DEQ
+mRNA:MD15G0289300$ZmProPEP1                         -----------------------------------------------MSSR---------
+PSS17427$ZmProPEP1                                  ------------------------------------------------------------
+VIT_18s0164g00050.t01$ZmProPEP1                     -----------------------------------------------------------M
+Tp57577_TGAC_v2_mRNA16748$ZmProPEP1                 ----------------------------------------MGNQEQSRRTM------EET
+                                                                                                                
+
+Zm00001d002137_P001$ZmProPEP1                       ETAAVVLKEVEVEM-EMVGG-SEEASAAPLLLAHPCSLLQLLLRACAGCLVRLLHGHCSD
+ORGLA04G0217900.1$ZmProPEP1                         EKEGCEEA---------TPA-AAAAAAAPSFFAHPCSLLQYIARVCACCLGL-SDSFCDP
+PUZ49126$ZmProPEP1                                  ESAGLLIKEV-----------VSSGEASPAFFAHPCSLLLLLLRACAGCLGL--HGYCGS
+TKW06853$ZmProPEP1                                  APAGLLIKEV-----------ASGEESWPALLAHPCSLLQLLLRACAGCLGL--HGYCSS
+KQJ84871$ZmProPEP1                                  KEK-----EKEDKE-RSSDE-DESMAAAAAVFLHPCSLLQYVVRALACRLGI-SDPFGGT
+EES12943$ZmProPEP1                                  ETAGVIKEEQV--------E-MAEVEASAPLFAHPFSLLQPLLRACAGCLVG-LHGYCSD
+TraesROB_scaffold_068046_01G000100.1$ZmProPEP1      EYKGQLQLEKKSSQEE--DAMAMAASSPSFFLWHPLSLLHHVTRSCAGYLGL--SRLCHA
+HORVU.MOREX.r2.4HG0281300.1.mrna1$ZmProPEP1         EHKGQLQPEKKSAQEEEEEAMAMAASSPSFFFAHPLSLLHHVTRGFAGYMGL--SRLCHA
+cds.novel_model_3309_5bd9a17a$ZmProPEP1             EEA----------DLQNIRTTEESNCTSFFTSSPCCNFLCSAVNAFFKCLGYEYDPHDVN
+mRNA:MD15G0289300$ZmProPEP1                         ------------AEEEEEEEERQGEQARHRFYYSPCSLFEHAIKAFLKCLGL--HDNHHD
+PSS17427$ZmProPEP1                                  ---------------MEAAPDNSGAT-VDCFAQRSWYYLQEAIGALLKCLGFDSSKPEDS
+VIT_18s0164g00050.t01$ZmProPEP1                     EE-------------PSTGEMTQRPT-TVYYSHNPCYYLQEAIRAILKCLGLESSTSRDS
+Tp57577_TGAC_v2_mRNA16748$ZmProPEP1                 ST-------------NEEVEATNEKI-TTFYLYHPCSLLQKFLGTLFKCLGFEIETNKKE
+                                                                                          :          :          
+
+Zm00001d002137_P001$ZmProPEP1                       GANDDPKAAADDDDAAP-EAAAAAAAAAGDGGD----KAATYLY---MQE-----VWA-V
+ORGLA04G0217900.1$ZmProPEP1                         KASSVLVPE-------P-EPAAADPSQEGEE-D----MKSSYFY---MQE-ATTRVRA-A
+PUZ49126$ZmProPEP1                                  SDRHPKPAAVAAP---D-AAAAADPSQEGEGGG----EKANFLY---MQEEVVTRVWA-V
+TKW06853$ZmProPEP1                                  DDPKAAAAAA------P-DATAADSSQEGEGG-----DRANYLY---MQAEVLARVRA-V
+KQJ84871$ZmProPEP1                                  GTKPSADSA----------APPLGPSEEGQDADQKNPGTATGFY---MQGVITTSVRA-V
+EES12943$ZmProPEP1                                  NNDSKPAAAAIAESSTP------QEGEAGGGGD----DDDKAAA---GSSEVATPVLA-A
+TraesROB_scaffold_068046_01G000100.1$ZmProPEP1      LKDLKPRAATSPPAATSPQLHDEEPGVGGAGHA---------------ADDDCAAVEV-R
+HORVU.MOREX.r2.4HG0281300.1.mrna1$ZmProPEP1         LKDLKPRAA------TYSRLHEQGPGAGGAGHA---------------ADDGCAAVQV-R
+cds.novel_model_3309_5bd9a17a$ZmProPEP1             YSPLPTT-------QTSDQPSSKDPSQTKTPEE-------------DQEETGTTRVVL-S
+mRNA:MD15G0289300$ZmProPEP1                         YHSGRSAVTDDQN---HH-HPHPHPHT---EREMKFTEEAVIVM---ASARSATRVPTSI
+PSS17427$ZmProPEP1                                  SSSSQGV--------DVKEPNPQHPPSTTDPDTDP-----P------SVSVEDIATTS-A
+VIT_18s0164g00050.t01$ZmProPEP1                     SSSSSEQKD-----DDDTEASPQQSRSSTQQGAHSSSADSPSTTQQDNNTFEDAESAR-V
+Tp57577_TGAC_v2_mRNA16748$ZmProPEP1                 HDEVKSPSDTEEDVRTDDNTTSEHESSQK--VL--ACSEQKECSSSTTSSFQFIRTLI-I
+                                                                                                                
+
+Zm00001d002137_P001$ZmProPEP1                       RRR-PTTPGRPREGSGGNGGNHH-
+ORGLA04G0217900.1$ZmProPEP1                         RLR-PKPPGNPREGSGGNGGHHH-
+PUZ49126$ZmProPEP1                                  RRP-Q-PPGRPREGSGGNGGVHH-
+TKW06853$ZmProPEP1                                  RRP-PPPGQRPREGSGGNGGAHH-
+KQJ84871$ZmProPEP1                                  RRTRPPGPDNPVEGSGGNGGHHH-
+EES12943$ZmProPEP1                                  RRP-PTQPGPPEEGSGGHGGSHN-
+TraesROB_scaffold_068046_01G000100.1$ZmProPEP1      SRGVPQRPRAPREGRGG---THH-
+HORVU.MOREX.r2.4HG0281300.1.mrna1$ZmProPEP1         SRGVPQRPRGPREGRGG---THH-
+cds.novel_model_3309_5bd9a17a$ZmProPEP1             RRTPPPRRQGP---TRGRGGQNN-
+mRNA:MD15G0289300$ZmProPEP1                         ARARPKNHNKPPLS-SGKGGKQYC
+PSS17427$ZmProPEP1                                  RRPTQPRPPIS----SGGGPQTN-
+VIT_18s0164g00050.t01$ZmProPEP1                     LRRGPTRPPISFESRPGGGSQIN-
+Tp57577_TGAC_v2_mRNA16748$ZmProPEP1                 RRGGPRRSGSS----SGSGPGIN-
+                                                                    *       

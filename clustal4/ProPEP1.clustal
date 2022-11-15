@@ -1,0 +1,98 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+AT5G64900.1$ProPEP1                               --------------------------------M-EKSDRR-SEESHLWIPLQCLDQTLRA
+Bo3g100750.1$ProPEP1                              -------------------------------ME-KIERQT-EEASYLGLPFHFLNQTLKA
+Csa11g102050.1$ProPEP1                            -------------------------------ME-KSDRRS-EEATYLWIPLQCLDRTLKA
+KFK28178$ProPEP1                                  -------------------------------ME-KLERRS-EEETHLWIPFQFLDQTLKA
+PGSC0003DMT400056515$ProPEP1                      -------------------------------MEEKKESRSAYNEIITKNPMFYLQEGIKA
+KRH35018$ProPEP1                                  ME------GSS---------------------PSIEEERT-A-TFYVYHPCYFLQQALRA
+ONI02032$ProPEP1                                  -------------------------------MESSATEEQQREGPRFNSPCTFFEHVIMA
+mRNA:MD15G0289300$ProPEP1                         MS-------------S----------RAEEEEEEEERQGEQARHRFYYSPCSLFEHAIKA
+CDS:Oeu038192.1.1$ProPEP1                         ----------------------------MEETIENINGRQNTETYCVQNPCRYIQVAIKT
+ERM94331$ProPEP1                                  -------------------------------MEGEGKEDG-SMAINTWLSCPCLEYFLRA
+AES72728$ProPEP1                                  ---------------------------------------MDTVQRERDSACHFIEQVVKA
+PSS17427$ProPEP1                                  -------------------------------MEAAPDNSGATVDCFAQRSWYYLQEAIGA
+Tp57577_TGAC_v2_mRNA24540$ProPEP1                 ---------------------------------------MDTVQRERESACHFIEQVMKA
+ESW15611$ProPEP1                                  ME------ESS---------------------PWHEEERT-A-TFYVYHPCHFLQEALRT
+cds.novel_model_3309_5bd9a17a$ProPEP1             MKDNSEKKDNQDEQEE----------ADLQNIRTTEESNC-TSFFTSSPCCNFLCSAVNA
+OTG26750$ProPEP1                                  -------------------------------MVEERAEVVYDIGYGYGNPCRYLQEVFRS
+KOM35816$ProPEP1                                  --------------------------------MEEEEERT-A-TFYVYHPCYFLQQALRA
+TraesWEE_scaffold_045326_01G000200.1$ProPEP1      MEYKGQLQLEKKSSQE---------------EDAMAMAAS-SPSFFLWHPLSLLHYVTRS
+VIT_18s0164g00050.t01$ProPEP1                     ----------------------------MEEPSTGEMTQRPTTVYYSHNPCYYLQEAIRA
+PRQ48931$ProPEP1                                  -----------------------------MESSSSADQREEERHPLLHSPCHFFDQLITA
+OIW01405$ProPEP1                                  MEGSSTHEEKG---------------------EVVDHERT-T-TFSLYHPCYFFEEALRA
+Zm00001d002137_P002$ProPEP1                       MDERGEKEEEHGVVEEETAAVVLKEVEVEMEMVGGSEEAS-AAPLLLAHPCSLLQLLLRA
+                                                                                                       :     :
+
+AT5G64900.1$ProPEP1                               ILKCLGLFHQDSPTTS--------------------------------------------
+Bo3g100750.1$ProPEP1                              ILRCLGILHHDPPTVTK-------------------------------------------
+Csa11g102050.1$ProPEP1                            ILRCLGLFHQDSPSS---------------------------------------------
+KFK28178$ProPEP1                                  ILKCLGLLHHDSPTTTT-------------------------------------------
+PGSC0003DMT400056515$ProPEP1                      ILKCLGFESSKLVHQASSSSSSSSSSSSMSDTNKKEEEESEKQEQECVLFQEDGNKQGSD
+KRH35018$ProPEP1                                  LLKCVGIDESENTMCSQANKQEKSSLPQ------------------------------TP
+ONI02032$ProPEP1                                  CLDCLGLHDDHNQH----------------------------------------------
+mRNA:MD15G0289300$ProPEP1                         FLKCLGLHDNHHDYHSGRSA----------------------------------------
+CDS:Oeu038192.1.1$ProPEP1                         LLKCLGFETENSSTSEEKDKEGIS------------EMSSQ-------------------
+ERM94331$ProPEP1                                  ALNCFGLSSSSDSDGNQ-------------------------------------------
+AES72728$ProPEP1                                  FSKCLGLDPTAEKIQYRT------------------------------------------
+PSS17427$ProPEP1                                  LLKCLGFDSSKPEDSSSSSQGVDV------------KEPNP-------------------
+Tp57577_TGAC_v2_mRNA24540$ProPEP1                 FSKCLGLDPTAEKIQYRT------------------------------------------
+ESW15611$ProPEP1                                  LLRCLGIESGTSMS--SEAKQERSSLPQ------------------------------TH
+cds.novel_model_3309_5bd9a17a$ProPEP1             FFKCLGYEYDPHDVNYSPLPTTQ-------------------------------------
+OTG26750$ProPEP1                                  FLRCLGLEKQEGKERNTSGGVGGRDT-------------------GGGDGDGDGDGDGGG
+KOM35816$ProPEP1                                  FFKCLGIERTLSPQ--------------------------------------------TH
+TraesWEE_scaffold_045326_01G000200.1$ProPEP1      CAGYLGLSRL--CHALKDLKPRAA------------------------------------
+VIT_18s0164g00050.t01$ProPEP1                     ILKCLGLESSTSRDSSSSSSEQKD------------DDDTEASPQQSRSSTQQG------
+PRQ48931$ProPEP1                                  CLKCLGLDHDFSFSAAAGK-----------------------------------------
+OIW01405$ProPEP1                                  LFKCLGLEFGTKEKKISMDKAASESEEN------------------------------DP
+Zm00001d002137_P002$ProPEP1                       CAGCLVRLLHGHCSDGANDDPKAA------------------------------------
+                                                      .                                                       
+
+AT5G64900.1$ProPEP1                               --------SPGTSKQPKEEK--EDVTMEKEEV-----------VVTSRATKVKAKQRGKE
+Bo3g100750.1$ProPEP1                              ----TS-SDSAPLNQPEE----EEDVVMEDNVVVATMGSKNGIIITSRGTKVKAKRKDKE
+Csa11g102050.1$ProPEP1                            --------SPGTSNQPEEEE--EEDVTEKEEVVVTSRGMKHGVVVTSRAIKNKTNRKGKE
+KFK28178$ProPEP1                                  ----ETASSPVTLNQPEEEKEEEEDVAMEDDVVVTTRGVKNSVAVRSRGKKAKGKPKEKE
+PGSC0003DMT400056515$ProPEP1                      STNDNYKNDPPVENDD------EDPPQSE---------------TLILATERRGRPPSRP
+KRH35018$ProPEP1                                  SADDPITN--SPTH--KSSPDAADPPSTTNQTI-------------IIASLMATRGSRGS
+ONI02032$ProPEP1                                  ----------PPPLQTER------EMKFNEETIMM-----MAT---------RSRKATKP
+mRNA:MD15G0289300$ProPEP1                         VTDDQNHHHPHPHPHTER------EMKFTEEAVIVMASARSATRVPTSIARARPKNHNKP
+CDS:Oeu038192.1.1$ProPEP1                         ---EPPADLPATVPPP------TDPPEA---------------AADPPFNNVLARTPSRP
+ERM94331$ProPEP1                                  ----KVVSAEGEKDPKTT-------------------------TDTSGVISVLSRRPKRP
+AES72728$ProPEP1                                  --------------------------------------IENDGEVTSSIISRAFKRPPKP
+PSS17427$ProPEP1                                  ------QHPPSTTDPD------TDPPSVS--------------VEDIATTSARRPTQPRP
+Tp57577_TGAC_v2_mRNA24540$ProPEP1                 --------------------------------------IENDGEVTSSIISRAFKRPPKP
+ESW15611$ProPEP1                                  AAADPTIS--SPTNTHTTSLGAAGPPSVTDRTI---------------STSLIARSGRRS
+cds.novel_model_3309_5bd9a17a$ProPEP1             TSDQPSSKDPSQTKTPEEDQEETGTTRV--------------------VLSRRTPPPRRQ
+OTG26750$ProPEP1                                  GEVDPPTTSPIMDPTD------E--P-------------------MSTRRLTRRPPPPRG
+KOM35816$ProPEP1                                  AAADPTIN--SSTN-TQTSLDAADPSSVTDINV---------------GLFARRDGSRRS
+TraesWEE_scaffold_045326_01G000200.1$ProPEP1      -TSPPAA---------------TSPQLHDEEPGVGGAGHAADD-DCAAVEVRSRGVPQRP
+VIT_18s0164g00050.t01$ProPEP1                     -AHSSSADSPST----------TQQDNNT--------------FEDAESARVLRRGPTRP
+PRQ48931$ProPEP1                                  --TKADQHQQYPAPQTEM------EMKFREEVVVTATGNARWT---------RALRVKRP
+OIW01405$ProPEP1                                  ITPE---N--TESNSHRSSQEYSSTSTTQNWQL-------------VTSIMVVKRGPRRP
+Zm00001d002137_P002$ProPEP1                       -ADDDDA---------------APEAAAAAAAAAGDGGDKAAT-EVWAVRR-RPTTPGRP
+                                                                                                              
+
+AT5G64900.1$ProPEP1                               KVSSG----RPGQHN-----------
+Bo3g100750.1$ProPEP1                              KVSSG----RPGQHH-----------
+Csa11g102050.1$ProPEP1                            GVSSG----RRGQHN-----------
+KFK28178$ProPEP1                                  RVSTG----SPGQHNSIPSTQKITFV
+PGSC0003DMT400056515$ProPEP1                      KVGSG----PPPQNN-----------
+KRH35018$ProPEP1                                  KISDG----SGPQHN-----------
+ONI02032$ProPEP1                                  PISSG----PGGQINYSSSVSSS---
+mRNA:MD15G0289300$ProPEP1                         PLSSG----KGGKQYC----------
+CDS:Oeu038192.1.1$ProPEP1                         PIGRG----RGGQTN-----------
+ERM94331$ProPEP1                                  GVNPG----RGGQIN-----------
+AES72728$ProPEP1                                  RLSAG----RGAQINISSS-------
+PSS17427$ProPEP1                                  PISSG----GGPQTN-----------
+Tp57577_TGAC_v2_mRNA24540$ProPEP1                 PLSAG----RGAQINISTS-------
+ESW15611$ProPEP1                                  TVSHG----SGPQHD-----------
+cds.novel_model_3309_5bd9a17a$ProPEP1             GPTRG----RGGQNN-----------
+OTG26750$ProPEP1                                  PISSG----GGGQTN-----------
+KOM35816$ProPEP1                                  PITHG----PGPQHN-----------
+TraesWEE_scaffold_045326_01G000200.1$ProPEP1      RAPRE---GRGGTHH-----------
+VIT_18s0164g00050.t01$ProPEP1                     PISFESRPGGGSQIN-----------
+PRQ48931$ProPEP1                                  SLGSG----SGPQINRASSY------
+OIW01405$ProPEP1                                  ELSRG----SGPQTN-----------
+Zm00001d002137_P002$ProPEP1                       REGSG---GNGGNHH-----------
+                                                                            

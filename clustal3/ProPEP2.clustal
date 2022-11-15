@@ -1,0 +1,35 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+AT5G64890.1$ProPEP2                                                  MEKLDKR--------REEETYLWIPVQFLDQALIAVLKCIGLLCQP--A------KKTAP
+g07480.t1$ProPEP2                                                    MEKLDRR--------KEEETYLWIPLQFLDQTLIAVLKCLGLLCPT--A------KKTAS
+Al_scaffold_0008_3037$ProPEP2                                        MEKFDRR--------IEEETYLCIPFQILDQTLIAVLKCLGLLCPT--A------KKTAS
+KFK28178$ProPEP2                                                     MEKLERR--------SEEETHLWIPFQFLDQTLKAILKCLGLLHHD--SPT--TTTETAS
+Bra024335.1-P$ProPEP2                                                MEKVERQ--------SEEASYLWLPFHFLNQTIKAILRCLGILHHD--PPT--VT-KTSS
+CDY08841$ProPEP2                                                     MEKVERQ--------SEEASYLWLPFHFLNQTIKAILRCLGILHHD--PPT--VT-KTSS
+Bo3g100750.1$ProPEP2                                                 MEKIERQ--------TEEASYLGLPFHFLNQTLKAILRCLGILHHD--PPT--VT-KTSS
+KGN45904$ProPEP2                                                     MEDSTEKNRKPEMIPKRVASYLPIIFKSLLQIPMSISRFLRFQLFRQQPHDSSSASTVAP
+maker-chr03-exonerate_est2genome-gene-167.43-mRNA-1:cds$ProPEP2      ------------MIPKRVALYLPIIFKSLLQIPMSISRFLRFQLFREQPHVSSSASTVAP
+                                                                                     .   :* : .: * *   :: : : :               .: 
+
+AT5G64890.1$ProPEP2                                                  SPVTFNQPEEQE-EDYGVALKDDDVVVLL----------RDNKAKSKKRDKEKPSSGRPG
+g07480.t1$ProPEP2                                                    PPAILNPPEEQE-EDDGVAMKDDDVVLLS-------TRGKNMKAKAKKRDKENPSSGRPG
+Al_scaffold_0008_3037$ProPEP2                                        PPLILNQPDEQE-EDDGVAMKDDDVVLSS-------TR--GKKAKAKKRDKEKPSSGSPG
+KFK28178$ProPEP2                                                     SPVTLNQPEEEKEEEEDVAMEDDVVVTTRGVKNSVAVRSRGKKAKGKPKEKERVSTGSPG
+Bra024335.1-P$ProPEP2                                                DSAPLNQPEEE--EEEDVVMEDNVVVATMGSKNGIIITSRGTKVNAKRKEKAKVSSGRPG
+CDY08841$ProPEP2                                                     DSAPLNQPEEE--EEEDVVMEDNVVVATMGSKNGIIITSRGTKVNAKRKEKAKVSSGRPG
+Bo3g100750.1$ProPEP2                                                 DSAPLNQPEEE----EDVVMEDNVVVATMGSKNGIIITSRGTKVKAKRKDKEKVSSGRPG
+KGN45904$ProPEP2                                                     DPK--------------ILMAANIQATPQ-TSRG-IT-LRKDRRKRDSHIKPCRSNGGGG
+maker-chr03-exonerate_est2genome-gene-167.43-mRNA-1:cds$ProPEP2      PQ----------------------------TSRGIVT-LRKDRRKRNSHIKPCRSNGGGG
+                                                                                                               : : . : *   *.*  *
+
+AT5G64890.1$ProPEP2                                                  QTNSVPNAAIQVYKED--
+g07480.t1$ProPEP2                                                    QTNKIPNAAIQV------
+Al_scaffold_0008_3037$ProPEP2                                        QTNIIPNAAIQVYEEG--
+KFK28178$ProPEP2                                                     QHNSIPSTQKITFV----
+Bra024335.1-P$ProPEP2                                                KHH---------------
+CDY08841$ProPEP2                                                     KHH---------------
+Bo3g100750.1$ProPEP2                                                 QHH---------------
+KGN45904$ProPEP2                                                     QTNSLKCDRIDPPRFVL-
+maker-chr03-exonerate_est2genome-gene-167.43-mRNA-1:cds$ProPEP2      QTNSLKCDRIDPPRFLRT
+                                                                     : .               
