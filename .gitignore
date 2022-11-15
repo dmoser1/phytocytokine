@@ -38,3 +38,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+Blastp_ensemble_allpropeptides_new_E1_max200000.csv
