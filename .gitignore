@@ -7,6 +7,7 @@
 
 # User-specific files
 .Ruserdata
+.Ensemble_accession_to_organism.csv
 
 # Example code in package build process
 *-Ex.R
