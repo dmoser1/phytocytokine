@@ -5,10 +5,17 @@ Created on Tue Dec  1 18:45:07 2020
 @author: dan2m
 """
 
+# Author: Daniel Moser, AG Doehlemann, University of Cologne, Germany
+# Purpose: Linking protein IDs to source organisms from plant proteoms retrieved from ensemble plants
+
+# Loading packages
 import os
 import pandas as pd
 
-DIR = r"D:\Bioinformatic\blastdb\ensemble\zipped"
+# File directory
+DIR = r"ENTER YOUR FILEPATH TO THE PROTEOMS (FASTA) HERE"
+
+# Matching each ID with the organism name which was in the file name
 ORG0 = []
 ORG1 = []
 ORG2 = []

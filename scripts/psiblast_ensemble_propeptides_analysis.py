@@ -4,6 +4,8 @@ Created on Mon Nov 30 19:35:47 2020
 
 @author: Daniel Moser
 """
+# Author: Daniel Moser, AG Doehlemann, University of Cologne, Germany
+# Purpose: Mining phytocytokines cross-kingdom
 
 # =============================================================================
 # MODULES
