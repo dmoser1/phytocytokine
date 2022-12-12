@@ -1,0 +1,31 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+Zm00001d002137_P001$ZmProPEP1                       VRRR-PTTPGRPREGSG---GN
+ORGLA04G0217900.1$ZmProPEP1                         ARLR-PKPPGNPREGSG---GN
+PUZ49126$ZmProPEP1                                  VRRP-QPPG-RPREGSG---GN
+TKW06853$ZmProPEP1                                  VRRP-PPPGQRPREGSG---GN
+KQJ84871$ZmProPEP1                                  VRRTRPPGPDNPVEGSG---GN
+EES12943$ZmProPEP1                                  ARRP-PTQPGPPEEGSG---GH
+TraesROB_scaffold_068046_01G000100.1$ZmProPEP1      RSRGVPQRPRAPRE------GR
+HORVU.MOREX.r2.4HG0281300.1.mrna1$ZmProPEP1         RSRGVPQRPRGPRE------GR
+cds.novel_model_3309_5bd9a17a$ZmProPEP1             VLSRRTPPPRRQGPTRG----R
+mRNA:MD15G0289300$ZmProPEP1                         IARARPKNHNKPPLSSG----K
+PSS17427$ZmProPEP1                                  TTSARRPTQPRPPISSG----G
+VIT_18s0164g00050.t01$ZmProPEP1                     --RVLRRGPTRPPISFESRPGG
+Tp57577_TGAC_v2_mRNA16748$ZmProPEP1                 TLIIRRGGPRRSGSSSG----S
+
+
+Zm00001d002137_P001$ZmProPEP1                       GGNHH
+ORGLA04G0217900.1$ZmProPEP1                         GGHHH
+PUZ49126$ZmProPEP1                                  GGVHH
+TKW06853$ZmProPEP1                                  GGAHH
+KQJ84871$ZmProPEP1                                  GGHHH
+EES12943$ZmProPEP1                                  GGSHN
+TraesROB_scaffold_068046_01G000100.1$ZmProPEP1      GGTHH
+HORVU.MOREX.r2.4HG0281300.1.mrna1$ZmProPEP1         GGTHH
+cds.novel_model_3309_5bd9a17a$ZmProPEP1             GGQNN
+mRNA:MD15G0289300$ZmProPEP1                         GGKQY
+PSS17427$ZmProPEP1                                  GPQTN
+VIT_18s0164g00050.t01$ZmProPEP1                     GSQIN
+Tp57577_TGAC_v2_mRNA16748$ZmProPEP1                 GPGIN

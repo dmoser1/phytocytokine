@@ -51,3 +51,9 @@ The venn diagram was created with "venn_diagram.R".
 # qPCR graphs
 
 Graphs displaying the fold change of gene expression were created with "3h+24h_foldchange.R".
+
+# Motif comparison AtPEP1 and ZmPEP1
+
+Protein sequences of hits for AtPEP1 and ZmPEP1 were clustered together with CLUSTAL Omega. 
+Afterwards, results were seperated based on the query. 
+Per query the peptide sequence was extracted and a weblogo motif was created with the script "weblogo.py".

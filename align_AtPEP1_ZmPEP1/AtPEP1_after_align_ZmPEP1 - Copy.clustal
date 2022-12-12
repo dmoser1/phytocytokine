@@ -1,0 +1,49 @@
+CLUSTAL O(1.2.2) multiple sequence alignment
+
+
+AT5G64900.1$ProPEP1                                 ATKVKAKQRGKEKVSSG----R
+Bo3g100750.1$ProPEP1                                GTKVKAKRKDKEKVSSG----R
+Csa11g102050.1$ProPEP1                              AIKNKTNRKGKEGVSSG----R
+KFK28178$ProPEP1                                    GKKAKGKPKEKERVSTG----S
+PGSC0003DMT400056515$ProPEP1                        T-ERRGRPPSRPKVGSG----P
+KRH35018$ProPEP1                                    ASLMATRGSRGSKISDG----S
+ONI02032$ProPEP1                                    ----RSRKATKPPISSG----P
+mRNA:MD15G0289300$ProPEP1                           IARARPKNHNKPPLSSG----K
+CDS:Oeu038192.1.1$ProPEP1                           FNNVLARTPSRPPIGRG----R
+ERM94331$ProPEP1                                    VISVLSRRPKRPGVNPG----R
+AES72728$ProPEP1                                    IISRAFKRPPKPRLSAG----R
+PSS17427$ProPEP1                                    TTSARRPTQPRPPISSG----G
+Tp57577_TGAC_v2_mRNA24540$ProPEP1                   IISRAFKRPPKPPLSAG----R
+ESW15611$ProPEP1                                    STSLIARSGRRSTVSHG----S
+cds.novel_model_3309_5bd9a17a$ProPEP1               VLSRRTPPPRRQGPTRG----R
+OTG26750$ProPEP1                                    RRLTRRPPPPRGPISSG----G
+KOM35816$ProPEP1                                    GLFARRDGSRRSPITHG----P
+TraesWEE_scaffold_045326_01G000200.1$ProPEP1        RSRGVPQRPRAPRE------GR
+VIT_18s0164g00050.t01$ProPEP1                       --RVLRRGPTRPPISFESRPGG
+PRQ48931$ProPEP1                                    ---TRALRVKRPSLGSG----S
+OIW01405$ProPEP1                                    SIMVVKRGPRRPELSRG----S
+Zm00001d002137_P002$ProPEP1                         VRRR-PTTPGRPREGSG---GN
+
+
+AT5G64900.1$ProPEP1                                 PGQHN
+Bo3g100750.1$ProPEP1                                PGQHH
+Csa11g102050.1$ProPEP1                              RGQHN
+KFK28178$ProPEP1                                    PGQHN
+PGSC0003DMT400056515$ProPEP1                        PPQNN
+KRH35018$ProPEP1                                    GPQHN
+ONI02032$ProPEP1                                    GGQIN
+mRNA:MD15G0289300$ProPEP1                           GGKQY
+CDS:Oeu038192.1.1$ProPEP1                           GGQTN
+ERM94331$ProPEP1                                    GGQIN
+AES72728$ProPEP1                                    GAQIN
+PSS17427$ProPEP1                                    GPQTN
+Tp57577_TGAC_v2_mRNA24540$ProPEP1                   GAQIN
+ESW15611$ProPEP1                                    GPQHD
+cds.novel_model_3309_5bd9a17a$ProPEP1               GGQNN
+OTG26750$ProPEP1                                    GGQTN
+KOM35816$ProPEP1                                    GPQHN
+TraesWEE_scaffold_045326_01G000200.1$ProPEP1        GGTHH
+VIT_18s0164g00050.t01$ProPEP1                       GSQIN
+PRQ48931$ProPEP1                                    GPQIN
+OIW01405$ProPEP1                                    GPQTN
+Zm00001d002137_P002$ProPEP1                         GGNHH

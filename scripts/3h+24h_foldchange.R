@@ -3,10 +3,11 @@
 
 # Library loading
 library(tidyverse)
+library(scales)
 
-# Filepaths
-path <- "ENTER YOUR FILE PATH HERE/"
-file <- "qPCR/2022-10 Phytocytokine/3h+24h_foldchange_R.txt"
+# File paths
+path <- "ENTER YOUR FILEPATH HERE/"
+file <- "qPCR data/3h+24h_foldchange_R.txt"
 filepath <- paste0(path,file)
 
 # Reading in data
@@ -16,15 +17,15 @@ data <- read_delim(file = filepath, delim="\t", col_select = c(1:13))
 data %>% pivot_longer(cols = !(starts_with("Treatment")|starts_with("Time"))) -> long #tidy data
 long <- na.omit(long) #removal of NAs
 long$Treatment <- factor(long$Treatment, 
-                         levels = c("mock", "flg22", "chitin", "IRP", "PSK1", "PIP1", "ZIP1","DAMP1"))
+                         levels = c("mock", "flg22", "chitin", "IRP", "PSK1", "PIP1", "Zip1","DAMP1"))
 long$Time <- factor(long$Time, levels = c("3hpi", "24hpi"))
 long$name <- factor(long$name)
-long %>% filter(!name %in% c("ATFP4", "GST42", "lox8", "MPI1") & Treatment != "DAMP1") ->long #not-used genes/treatments
+long %>% filter(Treatment != "DAMP1") ->long #not-used genes/treatments
 
-# Statistics on different Timepoints, Genes and Treatments
+# Statistics on different Time points, Genes and Treatments
 long %>% group_by(Time, name, Treatment) %>%
   summarise(avg = mean(value, na.rm= T), #average
-            max = max(value, na.rm = T), #maixum value for plotting reasons
+            max = max(value, na.rm = T), #maximum value for plotting reasons
             sd = sd(value, na.rm= T), #standard-deviation
             len = length(value),
             deg = ifelse(avg<1,"down", "up"),
@@ -74,12 +75,12 @@ for (i in unique(long$name)) {
   print(p)
   # saving files
   file_png = paste0(path,
-                    "qPCR/2022-10 Phytocytokine/plots/phytocytokine_3+24h_foldchange_",
+                    "plots/phytocytokine_3+24h_foldchange_",
                     i,
                     "_new.png")
   ggsave(file_png)
   file_pdf = paste0(path,
-                    "qPCR/2022-10 Phytocytokine/plots/phytocytokine_3+24h_foldchange_",
+                    "plots/phytocytokine_3+24h_foldchange_",
                     i,
                     "_new.pdf")
   ggsave(file_pdf)
@@ -92,19 +93,19 @@ stats %>% filter(sign!="") %>% select(Time, name, Treatment, len, avg, ttest, si
 
 write_delim(
   stats_all,
-  paste0(path,"qPCR/2022-10 Phytocytokine/stats_3+24h_all.txt"),
+  paste0(path,"stats_3+24h_all.txt"),
   delim = "\t",
   na = "NA"
 )
 
 write_delim(
   stats_sig,
-  paste0(path,"qPCR/2022-10 Phytocytokine/stats_3+24h_sig.txt"),
+  paste0(path,"stats_3+24h_sig.txt"),
   delim = "\t",
   na = "NA"
 )
 
-# same plots as before but seperately for everytimepoint
+# same plots as before but separately for every time point
 for (i in unique(long$name)) {
   for (time in unique(long$Time)) {
   long %>% filter(name == i & Time == time) -> long_i
@@ -138,14 +139,14 @@ for (i in unique(long$name)) {
     
   print(p)
   file_png = paste0(path,
-                    "qPCR/2022-10 Phytocytokine/plots/phytocytokine_foldchange_",
+                    "plots/phytocytokine_foldchange_",
                     i,
                     "_",
                     time,
                     "_new.png")
   ggsave(file_png)
   file_pdf = paste0(path,
-                    "qPCR/2022-10 Phytocytokine/plots/phytocytokine_foldchange_",
+                    "plots/phytocytokine_foldchange_",
                     i,
                     "_",
                     time,
