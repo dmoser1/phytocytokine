@@ -46,7 +46,7 @@ These procedures were performed with the python script ”psiblast_ensemble_prop
 
 # Venn diagram
 
-The venn diagram was created with "venn_diagram.R".
+The venn diagram was created with "venn_diagram.R" using the package "ggvenn".
 
 # qPCR graphs
 
@@ -56,4 +56,16 @@ Graphs displaying the fold change of gene expression were created with "3h+24h_f
 
 Protein sequences of hits for AtPEP1 and ZmPEP1 were clustered together with CLUSTAL Omega. 
 Afterwards, results were seperated based on the query. 
-Per query the peptide sequence was extracted and a weblogo motif was created with the script "weblogo.py".
+Per query the peptide sequence was extracted and a weblogo motif was created with the script "weblogo.py" using the package "logomaker".
+
+# PR gene expression analysis
+
+PR gene expression was analyzed with the script "pr_genes_phytocyto_24h.R".
+
+# Botrytis Lesion Area analysis
+
+Lesion size analysis including ANOVA and plotting was performed with R script "ANOVA lesion size Botrytis.R".
+
+# Cell death quantification
+
+Quantification of cell death caused by the phytocytokines was performed with the script "ANOVA cell death quant.R".
