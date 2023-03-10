@@ -13,7 +13,7 @@ Additionally, 18 previously published phytocytokines amino acid sequences were s
 
 psiBLAST searches of the queries in the database were performed with five iterations and an e-value threshold of 0.05 to detect distant relationships between proteins. A parallel BLASTp with the same settings was performed.
 
-The following steps were performed with the script "psiblast_ensemble_propeptides_analysis.py" if not noted differentely.
+The following steps were performed with the script "psiblast_ensemble_propeptides_analysis.py" if not noted differentely. "psiblast_ensemble_propeptides_analysis_v2.py" was used to generate motifs with longer length and also some errors from the previous version were removed.
 
 After the BLASTs, the results for all queried propeptides were combined, and unique identifiers were assigned to each hit linking it to the respective query. 
 
